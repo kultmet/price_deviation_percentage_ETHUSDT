@@ -23,3 +23,8 @@ python binance_websocket.py
 ```
 
 and enjoy
+
+
+## Algorithm not guaranteed, but written by a beginner, for a test task.
+
+If someone tells me how to do it better, I will be very happy.
